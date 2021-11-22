@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/FeyzaBiber?tab=repositories)
 
-- 📫 How to reach me **feyzabiber@gmail.com**
+- 📫 How to reach me [📫](feyzabiber@gmail.com)
 
 - ⚡ Fun fact **I think I am night owl**
 
