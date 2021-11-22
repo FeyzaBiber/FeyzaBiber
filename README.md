@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vuejs and Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/FeyzaBiber?tab=repositories](https://github.com/FeyzaBiber?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/FeyzaBiber?tab=repositories)
 
 - 📫 How to reach me **feyzabiber@gmail.com**
 
