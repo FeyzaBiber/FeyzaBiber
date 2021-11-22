@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Feyza Biber</h1>
-<h3 align="center">A passionate Software developer from Poland</h3>
+<h3 align="center">A passionate Software developer from Turkey & Poland</h3>
 
 - 🌱 I’m currently learning **Vuejs and Nodejs**
 
